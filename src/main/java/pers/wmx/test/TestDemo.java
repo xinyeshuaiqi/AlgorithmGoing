@@ -2,6 +2,9 @@ package pers.wmx.test;
 
 import org.junit.jupiter.api.Test;
 import pers.wmx.demo.SimpleDemo;
+import pers.wmx.utils.MyUtils;
+
+import java.util.Scanner;
 
 /**
  * @author: wangmingxin1
@@ -26,5 +29,20 @@ public class TestDemo {
         }
         System.out.println();
 
+    }
+
+    @Test
+    public void testPrime(){
+        int i=7;
+        if(SimpleDemo.isPrime(i)){
+            System.out.println(i+"是素数!");
+        }else{
+            System.out.println(i+"不是素数!");
+        }
+    }
+
+    @Test
+    public void testPow(){
+        System.out.println(SimpleDemo.pow(2,5));
     }
 }
