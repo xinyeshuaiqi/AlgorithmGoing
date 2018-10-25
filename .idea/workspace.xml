@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/sort/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/lintcode/备注.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/swordtooffer/备注.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/demo/SimpleDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/demo/SimpleDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/test/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/test/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/test/TestSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/utils/MyUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/utils/MyUtils.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,25 +54,27 @@
         <counts>
           <entry key="java" value="8" />
           <entry key="md" value="1" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="8" />
           <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
           <entry key="java" value="2333" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="2333" />
-          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="PLAIN_TEXT" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
@@ -128,11 +126,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/sort/SelectSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="413">
-              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/swordtooffer/备注.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/lintcode/备注.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -196,6 +212,8 @@
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/utils/MyUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/search/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/sort/SelectSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/swordtooffer/备注.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/lintcode/备注.txt" />
       </list>
     </option>
   </component>
@@ -267,6 +285,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wmx" type="462c0819:PsiDirectoryNode" />
+              <item name="lintcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wmx" type="462c0819:PsiDirectoryNode" />
               <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -277,6 +304,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wmx" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wmx" type="462c0819:PsiDirectoryNode" />
+              <item name="swordtooffer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
@@ -307,7 +343,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540457937093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540459640612" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -433,7 +469,7 @@
       <updated>1539942034003</updated>
       <workItem from="1539942039552" duration="304000" />
       <workItem from="1539942490227" duration="2744000" />
-      <workItem from="1540432194660" duration="7474000" />
+      <workItem from="1540432194660" duration="9184000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1539945214047</created>
@@ -442,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539945214047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="demo">
+      <created>1540458014003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540458014003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -469,13 +512,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10522000" />
+    <option name="totallyTimeSpent" value="12232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -484,7 +527,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.70415777" visible="true" weight="0.3147942" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70415777" visible="true" weight="0.3147942" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.36707452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -590,7 +633,21 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/sort/SelectSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
-          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/swordtooffer/备注.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/lintcode/备注.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
