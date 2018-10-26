@@ -28,6 +28,23 @@ public class BinarySearch {
         return -1;
     }
 
+    public static int binarySearch(int []arr,int key,int low,int high){
+
+        // 注意：这里必须是 <=
+        while(low <= high) {
+            int mid = (low + high) / 2;
+            if(key == arr[mid]){
+                return mid;
+            }else if (key < arr[mid]){
+                high=mid -1;
+            }else if(key > arr[mid]){
+                low =mid +1;
+            }
+        }
+
+        return -1;
+    }
+
     //mid = (low + high) / 2;  这样求mid是有问题的  -----> 整数溢出
     //使用减法来求  mid = low+(high-low)/2;
     public static int binarySearch1(int []arr,int key){
@@ -104,5 +121,8 @@ public class BinarySearch {
         }else{
             System.out.println("查找成功 - > 该元素"+key+"在数组中的位置为："+index);
         }
+
+        int index1 = binarySearch(arr, 23,4,7);
+        System.out.println("index1:"+index1);
     }
 }

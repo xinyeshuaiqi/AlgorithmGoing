@@ -1,10 +1,7 @@
-package pers.wmx.test;
+package pers.wmx.demo.test;
 
 import org.junit.jupiter.api.Test;
 import pers.wmx.demo.SimpleDemo;
-import pers.wmx.utils.MyUtils;
-
-import java.util.Scanner;
 
 /**
  * @author: wangmingxin1
