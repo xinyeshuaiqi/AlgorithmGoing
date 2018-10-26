@@ -69,4 +69,26 @@ public class SimpleDemo {
         return t*t;
     }
 
+    //求阶乘   递归调用
+    public static int fact(int n){
+        if(n==1){
+            return 1;
+        }else{
+            return n*fact(n-1);
+        }
+    }
+
+    /*
+    在上面写的一般递归函数 func() 中，我们可以看到，func(n)  是依赖于 func(n-1) 的，func(n) 只有在得到 func(n-1) 的结果之后，
+    才能计算它自己的返回值，因此理论上，在 func(n-1) 返回之前，func(n)，不能结束返回。因此func(n)就必须保留它在栈上的数据，
+    直到func(n-1)先返回，而尾递归的实现则可以在编译器的帮助下，消除这个限制
+    * */
+
+    //求阶乘  使用尾递归  多加了个参数result
+    //在main函数中这样调用  fact(100,1)
+    public static int fact(int n,int result){
+        if (n <= 1) return result;
+        return fact(n - 1, n * result);
+    }
+
 }
