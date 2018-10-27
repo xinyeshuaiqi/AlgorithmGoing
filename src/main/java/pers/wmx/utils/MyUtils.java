@@ -22,4 +22,8 @@ public class MyUtils {
         a[i] = a[j];
         a[j] = temp;
     }
+
+    public static int min(int a,int b){
+        return a<b?a:b;
+    }
 }
