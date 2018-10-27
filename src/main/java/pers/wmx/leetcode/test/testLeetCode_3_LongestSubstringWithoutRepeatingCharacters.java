@@ -9,6 +9,14 @@ public class testLeetCode_3_LongestSubstringWithoutRepeatingCharacters {
 
     @Test
     public void testLengthOfLongestSubstring(){
-
+        String s="abcabcbb";
+        String s1="bbbbb";
+        String s2="pwwkew";
+        int result = leetCode_3_LongestSubstringWithoutRepeatingCharacters.lengthOfLongestSubstring(s);
+        int result1 = leetCode_3_LongestSubstringWithoutRepeatingCharacters.lengthOfLongestSubstring(s1);
+        int result2 = leetCode_3_LongestSubstringWithoutRepeatingCharacters.lengthOfLongestSubstring(s2);
+        System.out.println(result);
+        System.out.println(result1);
+        System.out.println(result2);
     }
 }
