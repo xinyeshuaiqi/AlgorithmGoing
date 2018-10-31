@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_19_RemoveNthNodeFromEndOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_20_ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,7 +53,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="52" />
+          <entry key="java" value="55" />
           <entry key="md" value="1" />
           <entry key="txt" value="5" />
           <entry key="xml" value="1" />
@@ -61,7 +61,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="52" />
+          <entry key="JAVA" value="55" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="1" />
@@ -70,13 +70,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="9127" />
+          <entry key="java" value="9586" />
           <entry key="txt" value="81" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9127" />
+          <entry key="JAVA" value="9586" />
           <entry key="PLAIN_TEXT" value="85" />
         </counts>
       </usages-collector>
@@ -124,11 +124,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_19_RemoveNthNodeFromEndOfList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <state relative-caret-position="275">
+              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_20_ValidParentheses.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="66" column="15" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="18" />
+              <folding>
+                <element signature="e#2838#2839#0" expanded="true" />
+                <element signature="e#2872#2873#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/Vector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="620" column="40" lean-forward="true" selection-start-line="620" selection-start-column="40" selection-end-line="620" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -193,6 +227,7 @@
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_24_SwapNodesInPairs.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_237_DeleteNodeInALinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_19_RemoveNthNodeFromEndOfList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_20_ValidParentheses.java" />
       </list>
     </option>
   </component>
@@ -276,15 +311,6 @@
               <item name="wmx" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="search" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -295,7 +321,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540971294614" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540973076513" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DesignPattern/DesignPattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -320,16 +346,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.testLeetCode_350_IntersectionofTwoArraysII.testIntersect">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pers.wmx.search.BinarySearch" />
+  <component name="RunManager" selected="JUnit.LeetCode_20_ValidParentheses.test">
+    <configuration name="LeetCode_20_ValidParentheses.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pers.wmx.search.*" />
+          <option name="PATTERN" value="pers.wmx.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="pers.wmx.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="pers.wmx.leetcode.LeetCode_20_ValidParentheses" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -399,19 +428,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="JUnit.testLeetCode_167_TwoSumII.testTwoSum" />
       <item itemvalue="JUnit.testLeetCode_167_TwoSumII.testTwoSum2" />
       <item itemvalue="JUnit.testLeetCode_349_IntersectionofTwoArrays.testIntersection" />
       <item itemvalue="JUnit.testLeetCode_350_IntersectionofTwoArraysII.testIntersect" />
+      <item itemvalue="JUnit.LeetCode_20_ValidParentheses.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LeetCode_20_ValidParentheses.test" />
         <item itemvalue="JUnit.testLeetCode_350_IntersectionofTwoArraysII.testIntersect" />
         <item itemvalue="JUnit.testLeetCode_349_IntersectionofTwoArrays.testIntersection" />
         <item itemvalue="JUnit.testLeetCode_167_TwoSumII.testTwoSum2" />
         <item itemvalue="JUnit.testLeetCode_167_TwoSumII.testTwoSum" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -431,7 +460,7 @@
       <workItem from="1540546805630" duration="115000" />
       <workItem from="1540779913631" duration="3159000" />
       <workItem from="1540879795598" duration="12840000" />
-      <workItem from="1540952380743" duration="8858000" />
+      <workItem from="1540952380743" duration="10656000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1539945214047</created>
@@ -545,16 +574,17 @@
       <option name="project" value="LOCAL" />
       <updated>1540969528315</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="19. Remove Nth Node From End of List">
+      <created>1540971356888</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540971356888</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testLeetCode_167_TwoSumII_testTwoSum2 - 2018.10.26 at 16h 30m 07s.xml">
-      <configuration name="testLeetCode_167_TwoSumII.testTwoSum2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="testLeetCode_167_TwoSumII_testTwoSum2 - 2018.10.26 at 16h 32m 20s.xml">
-      <configuration name="testLeetCode_167_TwoSumII.testTwoSum2" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="testLeetCode_167_TwoSumII_testTwoSum2 - 2018.10.26 at 16h 32m 59s.xml">
       <configuration name="testLeetCode_167_TwoSumII.testTwoSum2" configurationId="JUnit" />
     </history-entry>
@@ -579,15 +609,21 @@
     <history-entry file="testLeetCode_350_IntersectionofTwoArraysII_testIntersect - 2018.10.29 at 11h 12m 11s.xml">
       <configuration name="testLeetCode_350_IntersectionofTwoArraysII.testIntersect" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LeetCode_20_ValidParentheses_test - 2018.10.31 at 15h 59m 10s.xml">
+      <configuration name="LeetCode_20_ValidParentheses.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LeetCode_20_ValidParentheses_test - 2018.10.31 at 16h 02m 08s.xml">
+      <configuration name="LeetCode_20_ValidParentheses.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56960000" />
+    <option name="totallyTimeSpent" value="58758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.271855" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -596,17 +632,17 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70255864" weight="0.48832035" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.36707452" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7020256" weight="0.34705228" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" visible="true" weight="0.36707452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49946696" weight="0.32925472" />
       <window_info anchor="bottom" id="CheckStyle" order="8" sideWeight="0.49946696" weight="0.32925472" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021322" side_tool="true" visible="true" weight="0.36707452" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" weight="0.32925472" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4978678" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4978678" weight="0.32925472" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -641,7 +677,8 @@
     <MESSAGE value="update" />
     <MESSAGE value="24. Swap Nodes in Pairs" />
     <MESSAGE value="237. Delete Node in a Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="237. Delete Node in a Linked List" />
+    <MESSAGE value="19. Remove Nth Node From End of List" />
+    <option name="LAST_COMMIT_MESSAGE" value="19. Remove Nth Node From End of List" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/App.java" />
@@ -983,8 +1020,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_19_RemoveNthNodeFromEndOfList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        <state relative-caret-position="275">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="620" column="40" lean-forward="true" selection-start-line="620" selection-start-column="40" selection-end-line="620" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="66" column="15" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="18" />
+          <folding>
+            <element signature="e#2838#2839#0" expanded="true" />
+            <element signature="e#2872#2873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_20_ValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="88" column="5" lean-forward="true" selection-start-line="88" selection-start-column="5" selection-end-line="88" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
