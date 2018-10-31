@@ -1,6 +1,8 @@
 package pers.wmx.leetcode;
 
 /**
+ * 删除值为指定值的节点
+ *
  * @author: wangmingxin1
  * @create: 2018-10-31 14:15
  **/
