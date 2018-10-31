@@ -1,5 +1,7 @@
 package pers.wmx.leetcode;
 
+import org.junit.jupiter.api.Test;
+
 import java.util.*;
 
 /**
@@ -40,7 +42,7 @@ public class LeetCode_220_ContainsDuplicateIII {
     }
 
 
-    //借助自己的数据结构  这个leetCode也通过不了
+    //借助自己的数据结构
     public boolean containsNearbyAlmostDuplicate1(int[] nums, int k, int t) {
         List<Elment> list = new ArrayList<Elment>();
         for(int i=0;i<nums.length;i++){
@@ -67,15 +69,13 @@ public class LeetCode_220_ContainsDuplicateIII {
                     if(Math.abs(list.get(i).index-list.get(j).index) <= k){
                         return true;
                     }
-                }
-                else{
+                }else{
                     break;
                 }
             }
         }
         return false;
     }
-
 
     public boolean containsNearbyAlmostDuplicate2(int[] nums, int k, int t) {
         if (nums == null || nums.length == 0 || t < 0) return false;
@@ -97,7 +97,14 @@ public class LeetCode_220_ContainsDuplicateIII {
         return (num < 0)? ((num+1)/window - 1) : num/window;
     }
 
-
+    @Test
+    public void test(){
+        int []nums={1,5,9,1,5,9};
+        int k=2;
+        int t=3;
+        boolean flag = containsNearbyAlmostDuplicate1(nums, k, t);
+        System.out.println(flag);
+    }
 
 }
 
@@ -105,7 +112,7 @@ class Elment{
     int index;
     int value;
     public Elment(int index,int value){
-        index = this.index;
-        value = this.value;
+        this.index=index;
+        this.value=value;
     }
 }
