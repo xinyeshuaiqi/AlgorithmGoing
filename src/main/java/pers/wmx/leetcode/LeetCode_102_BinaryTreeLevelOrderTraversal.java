@@ -28,12 +28,11 @@ import java.util.Queue;
  **/
 public class LeetCode_102_BinaryTreeLevelOrderTraversal {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        if(root == null){
-            return null;
-        }
-
         List<List<Integer>> result = new ArrayList<>();
 
+        if(root == null){
+            return result;
+        }
 
         Queue<newTreeNode> queue = new LinkedList<>();
         queue.add(new newTreeNode(root,0));
@@ -41,9 +40,16 @@ public class LeetCode_102_BinaryTreeLevelOrderTraversal {
         while (!queue.isEmpty()){
             newTreeNode cur = queue.poll();
             int level = cur.level;
+            if(level == result.size() ){
+                result.add(new ArrayList<>());
+            }
             result.get(level).add(cur.node.val);
-
-
+            if(cur.node.left!=null){
+                queue.add(new newTreeNode(cur.node.left,level+1));
+            }
+            if(cur.node.right!=null){
+                queue.add(new newTreeNode(cur.node.right,level+1));
+            }
         }
 
         return result;
@@ -53,7 +59,7 @@ public class LeetCode_102_BinaryTreeLevelOrderTraversal {
 
 class newTreeNode{
     TreeNode node;
-    int level;
+    int level;   //处于第几层
 
     public newTreeNode(TreeNode node,int level){
         this.node=node;

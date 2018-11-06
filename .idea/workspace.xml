@@ -6,8 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_102_BinaryTreeLevelOrderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_102_BinaryTreeLevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_102_BinaryTreeLevelOrderTraversal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,13 +72,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="10891" />
+          <entry key="java" value="10975" />
           <entry key="txt" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10891" />
+          <entry key="JAVA" value="10975" />
           <entry key="PLAIN_TEXT" value="109" />
         </counts>
       </usages-collector>
@@ -131,7 +131,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_102_BinaryTreeLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="404">
-              <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -316,16 +316,6 @@
               <item name="wmx" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_102_BinaryTreeLevelOrderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -338,7 +328,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541413895307" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541470470509" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DesignPattern/DesignPattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -478,7 +468,7 @@
       <workItem from="1540779913631" duration="3159000" />
       <workItem from="1540879795598" duration="12840000" />
       <workItem from="1540952380743" duration="16009000" />
-      <workItem from="1541382260302" duration="9366000" />
+      <workItem from="1541382260302" duration="10767000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1539945214047</created>
@@ -627,7 +617,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541412268952</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="102. Binary Tree Level Order Traversal">
+      <created>1541413910851</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1541413910851</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -663,7 +660,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73477000" />
+    <option name="totallyTimeSpent" value="74878000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -727,7 +724,8 @@
     <MESSAGE value="290. Word Pattern" />
     <MESSAGE value="update" />
     <MESSAGE value="二叉树前序、中序、后序遍历" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树前序、中序、后序遍历" />
+    <MESSAGE value="102. Binary Tree Level Order Traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="102. Binary Tree Level Order Traversal" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/sort/BubbleSort.java">
@@ -1131,7 +1129,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_102_BinaryTreeLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
-          <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
