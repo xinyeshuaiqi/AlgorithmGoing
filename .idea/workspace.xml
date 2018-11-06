@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_104_MaximumDepthofBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_226_InvertBinaryTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,7 +55,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="71" />
+          <entry key="java" value="72" />
           <entry key="md" value="1" />
           <entry key="txt" value="5" />
           <entry key="xml" value="1" />
@@ -63,7 +63,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="71" />
+          <entry key="JAVA" value="72" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="1" />
@@ -72,13 +72,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="11776" />
+          <entry key="java" value="11951" />
           <entry key="txt" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11776" />
+          <entry key="JAVA" value="11951" />
           <entry key="PLAIN_TEXT" value="109" />
         </counts>
       </usages-collector>
@@ -148,11 +148,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_104_MaximumDepthofBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+            <state relative-caret-position="775">
+              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_226_InvertBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="571">
+              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -171,18 +180,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
               <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_94_BinaryTreeInorderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -220,7 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/test/TestSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/demo/GetSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/test/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/utils/MyUtils.java" />
@@ -271,6 +267,7 @@
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_279_PerfectSquares.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_347_TopKFrequentElements.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_104_MaximumDepthofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_226_InvertBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -355,7 +352,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541476250054" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541479334263" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DesignPattern/DesignPattern" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -495,7 +492,7 @@
       <workItem from="1540779913631" duration="3159000" />
       <workItem from="1540879795598" duration="12840000" />
       <workItem from="1540952380743" duration="16009000" />
-      <workItem from="1541382260302" duration="16343000" />
+      <workItem from="1541382260302" duration="18296000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1539945214047</created>
@@ -672,7 +669,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541475823926</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="104. Maximum Depth of Binary Tree">
+      <created>1541476261103</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1541476261103</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -708,7 +712,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80454000" />
+    <option name="totallyTimeSpent" value="82407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -775,16 +779,10 @@
     <MESSAGE value="102. Binary Tree Level Order Traversal" />
     <MESSAGE value="279. Perfect Squares" />
     <MESSAGE value="347. Top K Frequent Elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="347. Top K Frequent Elements" />
+    <MESSAGE value="104. Maximum Depth of Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="104. Maximum Depth of Binary Tree" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/sort/mergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
@@ -1184,8 +1182,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_104_MaximumDepthofBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+        <state relative-caret-position="775">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_226_InvertBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
         </state>
       </provider>
     </entry>
