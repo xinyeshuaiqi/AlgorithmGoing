@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_70_ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_343_IntegerBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -56,7 +56,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="98" />
+          <entry key="java" value="99" />
           <entry key="md" value="1" />
           <entry key="txt" value="5" />
           <entry key="xml" value="1" />
@@ -65,7 +65,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="98" />
+          <entry key="JAVA" value="99" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="1" />
@@ -74,13 +74,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="18171" />
+          <entry key="java" value="18622" />
           <entry key="txt" value="105" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18171" />
+          <entry key="JAVA" value="18622" />
           <entry key="PLAIN_TEXT" value="109" />
         </counts>
       </usages-collector>
@@ -104,11 +104,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_70_ClimbingStairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="421">
+              <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_343_IntegerBreak.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="64" column="67" selection-start-line="64" selection-start-column="67" selection-end-line="64" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/test/TestLeetCode.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/leetCode_283_MoveZeroes.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/test/testLeetCode_283_MoveZeroes.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_283_MoveZeroes.java" />
@@ -185,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_435_NonoverlappingIntervals.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/demo/FibonacciSequence.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_70_ClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_343_IntegerBreak.java" />
       </list>
     </option>
   </component>
@@ -269,7 +281,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542253105829" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542257618379" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -413,7 +425,7 @@
       <workItem from="1541744846003" duration="7947000" />
       <workItem from="1541761063935" duration="605000" />
       <workItem from="1542164989035" duration="1776000" />
-      <workItem from="1542248635608" duration="3967000" />
+      <workItem from="1542248635608" duration="6149000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1539945214047</created>
@@ -709,7 +721,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542251193118</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="70. Climbing Stairs">
+      <created>1542253140791</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1542253140791</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -745,7 +764,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122162000" />
+    <option name="totallyTimeSpent" value="124344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -790,7 +809,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="24. Swap Nodes in Pairs" />
     <MESSAGE value="237. Delete Node in a Linked List" />
     <MESSAGE value="19. Remove Nth Node From End of List" />
     <MESSAGE value="20. Valid Parentheses" />
@@ -815,16 +833,10 @@
     <MESSAGE value="455. Assign Cookies" />
     <MESSAGE value="435. Non-overlapping Intervals" />
     <MESSAGE value="斐波那契数列" />
-    <option name="LAST_COMMIT_MESSAGE" value="斐波那契数列" />
+    <MESSAGE value="70. Climbing Stairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="70. Climbing Stairs" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/TreeSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="424" column="22" selection-start-line="424" selection-start-column="22" selection-end-line="424" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/NavigableMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -1186,8 +1198,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_70_ClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        <state relative-caret-position="421">
+          <caret line="48" column="48" lean-forward="true" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_343_IntegerBreak.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="64" column="67" selection-start-line="64" selection-start-column="67" selection-end-line="64" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
