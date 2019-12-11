@@ -6,11 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/digui/LadderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/search/MyBinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/demo/FibonacciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/demo/FibonacciSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/practice/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/linkedlist/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/practice/linkedlist/ReverseLinedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/linkedlist/ReverseLinedList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,18 +30,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_112_PathSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_145_BinaryTreePostorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="180">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -56,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_167_TwoSumII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="440">
               <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
@@ -65,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_200_NumberofIslands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="1720">
               <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
             </state>
           </provider>
@@ -74,7 +62,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_203_RemoveLinkedListElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="160">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -92,17 +80,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_343_IntegerBreak.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="726">
-              <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+            <state relative-caret-position="1300">
+              <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/demo/FibonacciSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/demo/FibonacciSequence.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/practice/search/MyBinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="92">
+              <caret line="26" column="19" selection-start-line="26" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -110,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/demo/test/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
+            <state relative-caret-position="160">
               <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
@@ -119,7 +116,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/demo/SimpleDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
+            <state relative-caret-position="160">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
@@ -147,8 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_167_TwoSumII.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/test/testLeetCode_167_TwoSumII.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_349_IntersectionofTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/test/testLeetCode_349_IntersectionofTwoArrays.java" />
@@ -198,6 +193,8 @@
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/linkedlist/ReverseLinedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/digui/LadderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/demo/FibonacciSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/practice/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/practice/search/MyBinarySearch.java" />
       </list>
     </option>
   </component>
@@ -221,6 +218,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -261,46 +260,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_102_BinaryTreeLevelOrderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode_144_BinaryTreePreorderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
@@ -310,6 +270,16 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="wmx" type="462c0819:PsiDirectoryNode" />
               <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wmx" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
@@ -333,8 +303,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -345,6 +313,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -366,7 +337,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LadderTest">
+  <component name="RunManager" selected="Application.MyBinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.BinarySearch" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pers.wmx.practice.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LadderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.digui.LadderTest" />
       <module name="Algorithm" />
@@ -380,12 +364,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TempTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pers.wmx.leetcode.test.TempTest" />
+    <configuration name="MyBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.search.MyBinarySearch" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pers.wmx.leetcode.test.*" />
+          <option name="PATTERN" value="pers.wmx.practice.search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -425,36 +409,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode_51_NQueens.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pers.wmx.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pers.wmx.leetcode" />
-      <option name="MAIN_CLASS_NAME" value="pers.wmx.leetcode.LeetCode_51_NQueens" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TempTest" />
       <item itemvalue="Application.LadderTest" />
-      <item itemvalue="JUnit.LeetCode_51_NQueens.test" />
       <item itemvalue="JUnit.LeetCode_455_AssignCookies.test" />
       <item itemvalue="JUnit.FibonacciSequence.test" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.MyBinarySearch" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyBinarySearch" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LadderTest" />
         <item itemvalue="JUnit.FibonacciSequence.test" />
         <item itemvalue="JUnit.LeetCode_455_AssignCookies.test" />
-        <item itemvalue="JUnit.LeetCode_51_NQueens.test" />
-        <item itemvalue="Application.TempTest" />
       </list>
     </recent_temporary>
   </component>
@@ -488,6 +456,7 @@
       <workItem from="1574995513475" duration="3517000" />
       <workItem from="1575001815911" duration="1461000" />
       <workItem from="1575600325426" duration="2419000" />
+      <workItem from="1576034348010" duration="3113000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1539945214047</created>
@@ -818,7 +787,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574998801877</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="递归">
+      <created>1576034402729</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1576034402729</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -854,14 +830,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135278000" />
+    <option name="totallyTimeSpent" value="138391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="804" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.69666183" visible="true" weight="0.2546495" />
-      <window_info id="Structure" order="1" sideWeight="0.30333817" side_tool="true" visible="true" weight="0.2546495" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.82535887" visible="true" weight="0.25822604" />
+      <window_info id="Structure" order="1" sideWeight="0.17464115" side_tool="true" visible="true" weight="0.25822604" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -869,7 +845,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6974249" weight="0.39332366" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6974249" visible="true" weight="0.39332366" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5890192" weight="0.43270302" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -939,7 +915,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="二叉树前序、中序、后序遍历" />
     <MESSAGE value="102. Binary Tree Level Order Traversal" />
     <MESSAGE value="279. Perfect Squares" />
@@ -964,16 +939,10 @@
     <MESSAGE value="198. House Robber" />
     <MESSAGE value="416. Partition Equal Subset Sum" />
     <MESSAGE value="linkedlist专题练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="linkedlist专题练习" />
+    <MESSAGE value="递归" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_279_PerfectSquares.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_347_TopKFrequentElements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
@@ -1196,14 +1165,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_112_PathSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="480">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_145_BinaryTreePostorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="180">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1213,21 +1182,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_167_TwoSumII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="440">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_200_NumberofIslands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="1720">
           <caret line="86" column="9" selection-start-line="86" selection-start-column="9" selection-end-line="86" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_203_RemoveLinkedListElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="160">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
@@ -1241,31 +1210,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_343_IntegerBreak.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="66" column="9" lean-forward="true" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+        <state relative-caret-position="1300">
+          <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/demo/test/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
+        <state relative-caret-position="160">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/demo/SimpleDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
+        <state relative-caret-position="160">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/demo/FibonacciSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="156">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/practice/search/MyBinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="26" column="19" selection-start-line="26" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
