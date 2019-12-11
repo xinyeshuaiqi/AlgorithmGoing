@@ -1,4 +1,4 @@
-package pers.wmx.leetcode.practice.linkedlist;
+package pers.wmx.practice.linkedlist;
 
 /**
  * @author wmx

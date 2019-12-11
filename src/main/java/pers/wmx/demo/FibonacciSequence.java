@@ -18,10 +18,12 @@ public class FibonacciSequence {
 
     //递归法
     public static int fib1(int n){
-        if(n<=0)
-            return  0;
-        if (n ==1)
+        if(n<=0) {
+            return 0;
+        }
+        if (n ==1) {
             return 1;
+        }
         return fib1(n-1) + fib1(n-2);
     }
 
