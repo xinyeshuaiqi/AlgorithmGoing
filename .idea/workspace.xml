@@ -6,7 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +29,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <state relative-caret-position="120">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="20" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -69,7 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_350_IntersectionofTwoArraysII.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/test/testLeetCode_350_IntersectionofTwoArraysII.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/test/LeetCode_206_ReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/LeetCode_206_ReverseLinkedList.java" />
@@ -120,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/practice/collection/LinkedHashMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/interview/findNumLargeThanHalfArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main1.java" />
       </list>
     </option>
   </component>
@@ -195,15 +204,6 @@
               <item name="wmx" type="462c0819:PsiDirectoryNode" />
               <item name="interview" type="462c0819:PsiDirectoryNode" />
               <item name="findNumLargeThanHalfArray.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmGoing" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="wmx" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AlgorithmGoing" type="b2602c69:ProjectViewProjectNode" />
@@ -408,14 +408,7 @@
       <workItem from="1577359641922" duration="1643000" />
       <workItem from="1581425034081" duration="1197000" />
       <workItem from="1582166699050" duration="484000" />
-      <workItem from="1582627529637" duration="4888000" />
-    </task>
-    <task id="LOCAL-00003" summary="备注">
-      <created>1540459653168</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1540459653168</updated>
+      <workItem from="1582627529637" duration="5281000" />
     </task>
     <task id="LOCAL-00004" summary="排序">
       <created>1540526027652</created>
@@ -753,7 +746,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581426165362</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="回文">
+      <created>1582632558262</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1582632558263</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -789,12 +789,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146785000" />
+    <option name="totallyTimeSpent" value="147178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="798" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8177966" visible="true" weight="0.2725322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8177966" visible="true" weight="0.2725322" />
       <window_info id="Structure" order="1" sideWeight="0.1822034" side_tool="true" visible="true" weight="0.2725322" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -804,7 +805,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6967096" weight="0.2137628" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.5890192" visible="true" weight="0.30893117" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5890192" visible="true" weight="0.30893117" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -873,7 +874,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="347. Top K Frequent Elements" />
     <MESSAGE value="104. Maximum Depth of Binary Tree" />
     <MESSAGE value="226. Invert Binary Tree" />
     <MESSAGE value="112. Path Sum" />
@@ -898,7 +898,8 @@
     <MESSAGE value="BinarySearch" />
     <MESSAGE value="LinkedHashMap" />
     <MESSAGE value="数组中一定有一个元素超过数组大小的一半" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组中一定有一个元素超过数组大小的一半" />
+    <MESSAGE value="回文" />
+    <option name="LAST_COMMIT_MESSAGE" value="回文" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -913,7 +914,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/java/jdk1.8/src.zip!/java/lang/Comparable.java" />
     <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/Arrays.java" />
     <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/ArrayList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/leetcode/test/TempTest.java">
@@ -1235,8 +1235,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="120">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pers/wmx/interview/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="20" selection-end-column="39" />
         </state>
       </provider>
     </entry>
