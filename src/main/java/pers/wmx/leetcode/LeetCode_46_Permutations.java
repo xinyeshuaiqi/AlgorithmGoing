@@ -33,7 +33,8 @@ public class LeetCode_46_Permutations {
 
         //length表示的当前的list的长度
         if(length == nums.length){
-            result.add(new ArrayList<>(list));     //我一开始这样写的： result.add(list);  答案死活出不来 ...
+            //我一开始这样写的： result.add(list);  答案死活出不来 ...
+            result.add(new ArrayList<>(list));
             return;
         }
 
