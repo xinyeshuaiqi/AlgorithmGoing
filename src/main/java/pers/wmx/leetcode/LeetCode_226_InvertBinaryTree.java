@@ -27,8 +27,11 @@ package pers.wmx.leetcode;
 public class LeetCode_226_InvertBinaryTree {
 
     public TreeNode invertTree(TreeNode root) {
-        if(root == null)
+
+        //递归终止条件
+        if(root == null) {
             return root;
+        }
 
 
         TreeNode left=root.left;
@@ -37,8 +40,9 @@ public class LeetCode_226_InvertBinaryTree {
         root.left=right;
         root.right=left;
 
-
+        //反转左子树
         invertTree(root.left);
+        //反转右子树
         invertTree(root.right);
 
         return root;
