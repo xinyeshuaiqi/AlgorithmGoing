@@ -35,30 +35,33 @@ public class LeetCode_17_LetterCombinationsofaPhoneNumber {
             "wxyz"      //9
     };
 
-    public void generateCombinations(String digits, int index, String s){
-
-        if(index == digits.length()){
-            result.add(s);
-            return;
-        }
-
-        char c = digits.charAt(index);
-        String str = maping[c - '0'];
-
-        for (int i = 0; i < str.length() ; i++) {
-            generateCombinations(digits, index+1, s + str.charAt(i));
-        }
-    }
-
     public List<String> letterCombinations(String digits) {
         if(digits==null || "".equals(digits)){
             return result;
         }
 
         String s = "";
-
         generateCombinations(digits,0,s);
 
         return result;
     }
+
+    public void generateCombinations(String digits, int index, String s){
+
+        //得到一组结果
+        if(index == digits.length()){
+            result.add(s);
+            return;
+        }
+
+        //获取数字对应的字母 如'2' 对应到'abc'
+        char c = digits.charAt(index);
+        String str = maping[c - '0'];
+
+        //遍历 字母 如abc
+        for (int i = 0; i < str.length() ; i++) {
+            generateCombinations(digits, index+1, s + str.charAt(i));
+        }
+    }
+
 }
