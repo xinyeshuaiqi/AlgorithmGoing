@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/Practise20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/Practise21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,9 +54,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542938466991" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/pers/wmx/practice" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -69,6 +69,9 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pers.wmx.leetcode" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pers/wmx/practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -205,7 +208,7 @@
       <workItem from="1583749701945" duration="875000" />
       <workItem from="1584938843038" duration="888000" />
       <workItem from="1586520044069" duration="925000" />
-      <workItem from="1589816111718" duration="378000" />
+      <workItem from="1589816111718" duration="1130000" />
     </task>
     <task id="LOCAL-00008" summary="1. Two Sum">
       <created>1540890051576</created>
