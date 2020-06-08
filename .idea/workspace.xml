@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/linkedlist/MergeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/linkedlist/FindKthToTail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -209,7 +209,9 @@
       <workItem from="1584938843038" duration="888000" />
       <workItem from="1586520044069" duration="925000" />
       <workItem from="1589816111718" duration="1373000" />
-      <workItem from="1591195723364" duration="671000" />
+      <workItem from="1591195723364" duration="915000" />
+      <workItem from="1591592059868" duration="237000" />
+      <workItem from="1591626151661" duration="1292000" />
     </task>
     <task id="LOCAL-00008" summary="1. Two Sum">
       <created>1540890051576</created>
