@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/MoreThanHalfNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/Plus1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MoreThanHalfNum">
+  <component name="RunManager" selected="Application.Plus1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pers.wmx.interview.Main" />
       <module name="Algorithm" />
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findNumLargeThanHalfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pers.wmx.interview.findNumLargeThanHalfArray" />
+    <configuration name="Plus1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.Plus1" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pers.wmx.interview.*" />
+          <option name="PATTERN" value="pers.wmx.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.findNumLargeThanHalfArray" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main1" />
       <item itemvalue="Application.Main3" />
       <item itemvalue="Application.MoreThanHalfNum" />
+      <item itemvalue="Application.Plus1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Plus1" />
         <item itemvalue="Application.MoreThanHalfNum" />
         <item itemvalue="Application.Main3" />
         <item itemvalue="Application.Main1" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.findNumLargeThanHalfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,8 @@
       <workItem from="1592924415609" duration="1530000" />
       <workItem from="1593589491352" duration="624000" />
       <workItem from="1593765674791" duration="36000" />
-      <workItem from="1594121824484" duration="490000" />
+      <workItem from="1594121824484" duration="862000" />
+      <workItem from="1595225484721" duration="593000" />
     </task>
     <task id="LOCAL-00008" summary="1. Two Sum">
       <created>1540890051576</created>
