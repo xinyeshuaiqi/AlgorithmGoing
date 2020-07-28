@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/Plus1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/linkedlist/Plus2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -131,7 +131,7 @@
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pers.wmx.practice.*" />
+          <option name="PATTERN" value="pers.wmx.practice.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,7 +144,7 @@
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pers.wmx.practice.*" />
+          <option name="PATTERN" value="pers.wmx.practice.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,7 +216,8 @@
       <workItem from="1593589491352" duration="624000" />
       <workItem from="1593765674791" duration="36000" />
       <workItem from="1594121824484" duration="862000" />
-      <workItem from="1595225484721" duration="593000" />
+      <workItem from="1595225484721" duration="815000" />
+      <workItem from="1595919507617" duration="951000" />
     </task>
     <task id="LOCAL-00008" summary="1. Two Sum">
       <created>1540890051576</created>
