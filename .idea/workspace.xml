@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/ContinuousListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/PalindromeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ContinuousListTest (1)">
+  <component name="RunManager" selected="Application.PalindromeNumber">
     <configuration name="ContinuousListTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.ContinuousListTest" />
       <module name="Algorithm" />
@@ -114,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreThanHalfNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.MoreThanHalfNum" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.PalindromeNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pers.wmx.practice.linkedlist.*" />
+          <option name="PATTERN" value="pers.wmx.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MoreThanHalfNum" />
       <item itemvalue="Application.Plus1" />
       <item itemvalue="Application.ReverseIn" />
       <item itemvalue="Application.ContinuousListTest" />
       <item itemvalue="Application.ContinuousListTest (1)" />
+      <item itemvalue="Application.PalindromeNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.ContinuousListTest (1)" />
         <item itemvalue="Application.ContinuousListTest" />
         <item itemvalue="Application.ReverseIn" />
         <item itemvalue="Application.Plus1" />
-        <item itemvalue="Application.MoreThanHalfNum" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +220,8 @@
       <workItem from="1595919507617" duration="1066000" />
       <workItem from="1597217477683" duration="1737000" />
       <workItem from="1597677638450" duration="429000" />
-      <workItem from="1597678123668" duration="149000" />
+      <workItem from="1597678123668" duration="958000" />
+      <workItem from="1599032971438" duration="1432000" />
     </task>
     <task id="LOCAL-00008" summary="1. Two Sum">
       <created>1540890051576</created>
