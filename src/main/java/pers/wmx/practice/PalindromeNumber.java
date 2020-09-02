@@ -10,6 +10,7 @@ public class PalindromeNumber {
         System.out.println(isPalindrome(0));
         System.out.println(isPalindrome(6));
         System.out.println(isPalindrome(88));
+        System.out.println(isPalindrome(818));
         System.out.println(isPalindrome(8118));
         System.out.println(isPalindrome(861168));
         System.out.println(isPalindrome(1234567));
