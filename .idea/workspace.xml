@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee474e7b-e8a2-4ca6-9260-c538e31ccffe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/LongestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/wmx/practice/PalindromeNumber.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromeNumber">
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
     <configuration name="ContinuousListTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.ContinuousListTest" />
       <module name="Algorithm" />
@@ -113,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.PalindromeNumber" />
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.LongestCommonPrefix" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -126,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Plus1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.Plus1" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pers.wmx.practice.PalindromeNumber" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pers.wmx.practice.linkedlist.*" />
+          <option name="PATTERN" value="pers.wmx.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Plus1" />
       <item itemvalue="Application.ReverseIn" />
       <item itemvalue="Application.ContinuousListTest" />
       <item itemvalue="Application.ContinuousListTest (1)" />
       <item itemvalue="Application.PalindromeNumber" />
+      <item itemvalue="Application.LongestCommonPrefix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.ContinuousListTest (1)" />
         <item itemvalue="Application.ContinuousListTest" />
         <item itemvalue="Application.ReverseIn" />
-        <item itemvalue="Application.Plus1" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,8 @@
       <workItem from="1597217477683" duration="1737000" />
       <workItem from="1597677638450" duration="429000" />
       <workItem from="1597678123668" duration="958000" />
-      <workItem from="1599032971438" duration="1576000" />
+      <workItem from="1599032971438" duration="1679000" />
+      <workItem from="1599635193964" duration="1449000" />
     </task>
     <task id="LOCAL-00008" summary="1. Two Sum">
       <created>1540890051576</created>
@@ -674,76 +675,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
